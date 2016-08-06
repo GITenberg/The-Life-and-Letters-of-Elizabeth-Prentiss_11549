@@ -1,0 +1,39 @@
+_repo: The-Life-and-Letters-of-Elizabeth-Prentiss_11549
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Prentiss, E. (Elizabeth)
+    aliases:
+    - Prentiss, Elizabeth Payson
+    - Prentiss, E. P. (Elizabeth Payson)
+    birthdate: 1818
+    deathdate: 1878
+    gutenberg_agent_id: '948'
+    url: http://www.gutenberg.org/2009/agents/948
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Prentiss
+creator:
+  author:
+    agent_name: Prentiss, George Lewis
+    alias: Prentiss, G. L. (George Lewis)
+    birthdate: 1816
+    deathdate: 1903
+    gutenberg_agent_id: '4023'
+    url: http://www.gutenberg.org/2009/agents/4023
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11549'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Prentiss, E. (Elizabeth), 1818-1878'
+- !lcsh 'Women and literature -- United States -- History -- 19th century'
+- !lcsh 'Protestantism and literature'
+- !lcsh 'Novelists, American -- 19th century -- Biography'
+- GITenberg
+title: The Life and Letters of Elizabeth Prentiss
+url: http://www.gutenberg.org/ebooks/11549
