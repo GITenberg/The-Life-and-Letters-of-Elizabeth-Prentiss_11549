@@ -1,5 +1,5 @@
 _repo: The-Life-and-Letters-of-Elizabeth-Prentiss_11549
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   contributor:
     agent_name: Prentiss, E. (Elizabeth)
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '948'
     url: http://www.gutenberg.org/2009/agents/948
     wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Prentiss
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Prentiss, George Lewis
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '4023'
     url: http://www.gutenberg.org/2009/agents/4023
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11549#The-Life-and-Letters-of-Elizabeth-Prentiss
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
